@@ -15,6 +15,10 @@ class NotFoundPage extends React.Component {
                 <h1>About the Author</h1>
                 <Link to="/">Home</Link>
                 <p>Welcome to My Dev Blog!</p>
+                <p>
+                    A little about me:</p>
+                   <p>      I was originally born in Pennsylvania ;however, I moved to Tennessee when I was about two years old.
+                </p>
             </Layout>
         )
     }
