@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import styled from 'styled-components'
 
 class NotFoundPage extends React.Component {
     render() {
@@ -13,7 +14,7 @@ class NotFoundPage extends React.Component {
             <Layout location={this.props.location} title={siteTitle}>
                 <SEO title="About" />
                 <h1>About the Author</h1>
-                <Link to="/">Home</Link>
+                <Link to='./'><Button>Home</Button></Link>
                 <p>Welcome to My Dev Blog!</p>
                 <p>
                     A little about me:</p>
@@ -23,6 +24,10 @@ class NotFoundPage extends React.Component {
         )
     }
 }
+
+const Button = styled.button`
+background-color: lightblue;
+color: gray;`
 
 export default NotFoundPage
 
