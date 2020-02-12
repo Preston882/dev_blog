@@ -18,7 +18,7 @@ class NotFoundPage extends React.Component {
                 <p>Welcome to My Dev Blog!</p>
                 <p>
                     A little about me:</p>
-                   <p>      I was originally born in Pennsylvania ;however, I moved to Tennessee when I was about two years old.
+                   <p>      I was originally born in Pennsylvania, however, I moved to Tennessee at an early age. Here I began my coding career.
                 </p>
             </Layout>
         )
