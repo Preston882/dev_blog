@@ -17,7 +17,7 @@ export default ({ data }) => {
       color: "white",
       height: 48,
       padding: "0 20px",
-      boxShadow: "0 3px 5px 2px rgba(255, 105, 135, .3)",
+      boxShadow: "0 3px 5px 2px rgba(25, 122, 203, .3)",
     },
     label: {
       textTransform: "capitalize",
