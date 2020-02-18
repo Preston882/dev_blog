@@ -11,7 +11,7 @@ export default ({ data }) => {
 
   const StyledButton = withStyles({
     root: {
-      background: "linear-gradient(45deg, #19CBA8 30%, #F 197ACB 90%)",
+      background: "linear-gradient(45deg, #19CBA8 30%, #197ACB 90%)",
       borderRadius: 3,
       border: 0,
       color: "white",
@@ -25,10 +25,10 @@ export default ({ data }) => {
   })(Button)
 
   return (
-    <Layout location='/about' title={siteTitle}>
-      <SEO title='About' />
+    <Layout location="/about" title={siteTitle}>
+      <SEO title="About" />
       <h1>About the Author</h1>
-      <Link to='/'>
+      <Link to="/">
         <StyledButton>Home</StyledButton>
       </Link>
       <p>Welcome to My Dev Blog!</p>
