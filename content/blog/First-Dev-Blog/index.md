@@ -1,7 +1,7 @@
 ---
 title: First Developer Blog Post
 date: "2020-01-15T22:12:03.284Z"
-description: "This Page is a beginning page for the developer and what he has learned so far within class"
+description: "This Page is a beginning page for the developer and what I learned so far within class"
 ---
 Welcome to my First ever Developer Blog!
 

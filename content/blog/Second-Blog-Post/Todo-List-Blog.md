@@ -1,6 +1,6 @@
 ---
 title: To Do List Blog
-date: "2020-01-24T22:12:03.284Z"
+date: "2020-01-22T22:12:03.284Z"
 description: "This Page shows you how I made a Todo List in a day!"
 ---
 Throughout a day in class we decided we wanted to create a model of a Todo list, but with also adding our own twist.
@@ -24,7 +24,7 @@ And now we test, to have a program called "Todo List" you would have to be able 
 After we have completed the task at hand, we must have a way to complete it!
 Now the fun part!
 Customization!
-Creating normal buttons in React create a basic black text over a white/gray background.
+Creating normal buttons in React initialize a basic black text over a white/gray background.
 Being the excessive person I am I decided to make the Buttons rounded, bigger, and colorful using 'Styled-Components'
 As you can see below:
 ```javascript
