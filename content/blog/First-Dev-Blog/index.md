@@ -9,7 +9,7 @@ All of the knowledge I have learned throughout this project has been from Dobyns
 
 Throughout my time in this class I have learned how to edit cool things like this:
 
-```javascript
+```Javascript
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
@@ -34,5 +34,4 @@ const Bio = () => {
       }
   `)
 ```
-To learn a little bit about me Click [Here](../about/)
 
